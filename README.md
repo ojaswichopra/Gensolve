@@ -5,7 +5,7 @@ This project focuses on the identification, regularization, and beautification o
 
 ## Key Objectives
 - **Regularization**: Identify the regular shapes in the given input of polylines and list them.
-- **Symmetry Identification**: Detect and enhance symmetrical patterns within the line art to preserve artistic integrity.
+- **Symmetry Identification**: Detect the symmetrical patterns within the line art to preserve artistic integrity.
 
 ## Project Approach
 1. **Input Data Representation**: We utilized polylines as the input format, which is defined as a sequence of points in 2D Euclidean space.
@@ -15,7 +15,7 @@ This project focuses on the identification, regularization, and beautification o
    - CSV files were used to check and validate the regularization process.
 
 3. **Output**:
-   - It outputs a list of the regular shapes and the symmetry model identified.
+   - It outputs a list of the regular shapes and the symmetries which model identified.
 
 ## Technologies Used
 - **Python**: Primary programming language used for developing algorithms and processing data.
@@ -25,5 +25,5 @@ This project focuses on the identification, regularization, and beautification o
 ## How to Use
 - Clone the Repository.
 - Replace the file name in csv with your path of csv file of polylines.
-- Run the Code.
+- Run the python notebook.
   
